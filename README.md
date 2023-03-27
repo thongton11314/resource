@@ -1,2 +1,2 @@
 # resources
-My template and resources
+My templates
